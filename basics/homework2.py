@@ -150,7 +150,6 @@ print("{0}\t{1}\t{2}".format(a,b,c))
 
 a = 6 
 b = 3 
-c = 5
 print("a={0}\tb={1}".format(b,a))
 
 a = 6.43 
