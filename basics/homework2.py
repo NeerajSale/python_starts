@@ -152,5 +152,15 @@ a = 6
 b = 3 
 print("a={0}\tb={1}".format(b,a))
 
+
+a = 6.43 
+print("a={0}".format(a))
+
+a = 6.43 
+print("a={0}".format(a))
+
+a = 6.43 
+print("a={0}".format(a))
+
 a = 6.43 
 print("a={0}".format(a))
