@@ -90,5 +90,13 @@ gst = 1000/100*10
 net_price = product_cost + gst
 print(net_price)
 
+product_cost = 1000
+gst = 1000/100*10
+net_price = product_cost + gst
+print(net_price)
 
+product_cost = 1000
+gst = 1000/100*10
+net_price = product_cost + gst
+print(net_price)
 
