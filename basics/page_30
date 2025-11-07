@@ -1,0 +1,103 @@
+ How many types of operators in python.
+ A 8 
+ 
+ What is the difference between logical and 'and' bitwise and. 
+ What is the difference between logical or and bitwise or. 
+ What are identity Operators.
+ A is, is not
+ 
+ What is the type a when a = 1,00,000 
+ invalid
+
+
+ What is the type of 'inf'? 
+a) Boolean 
+b) Integer 
+c) Float 
+d) Complex
+A c
+What is the purpose of not in operator. 
+A inverse
+
+19. Which is the correct operator for power(xy)? 
+a) X^y 
+b) X**y 
+c) X^^y 
+d) None of the mentioned
+A b
+
+Which one of these is floor division? 
+a) / 
+b) //
+C) %
+D) none of the mentioned
+A b
+
+What is the order of precedence in python? 
+i) Parentheses ii) Exponential iii) Multiplication iv) Division 
+v) Addition vi) Subtraction 
+a) i,ii,iii,iv,v,vi 
+b) ii,i,iii,iv,v,vi 
+c) ii,i,iv,iii,v,vi 
+d) i,ii,iii,iv,vi,v
+A a
+
+
+Mathematical operations can be performed on a string.
+A flase
+
+
+ Operators with the same precedence are evaluated in 
+which manner? 
+a) Left to Right 
+b) Right to Left 
+c) Can’t say 
+
+A c
+
+Which one of the following have the highest precedence 
+in the expression? 
+a) Exponential   b) Addition  c) Multiplication d) Parentheses 
+A d
+
+Which of the following is invalid? 
+a) _a = 1 
+b) __a = 1 
+c) __str__ = 1 
+d) none of the mentioned
+A d
+
+Which of the following is an invalid variable? 
+a) my_string_1 
+b) 1st_string 
+c) foo 
+d) _ 
+A b
+
+Which of the following is not a keyword? 
+a) eval 
+b) assert 
+c) nonlocal 
+d) pass 
+A a
+
+Which of the following is an invalid statement? 
+a) abc = 1,000,000 
+b) a b c = 1000 2000 3000 
+c) a,b,c = 1000, 2000, 3000 
+d) a_b_c = 1,000,000
+A b
+
+Which of the following cannot be a variable? 
+a) __init__
+b)in
+c)it
+d)on
+A b
+
+
+
+
+
+
+
