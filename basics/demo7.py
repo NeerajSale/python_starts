@@ -1,4 +1,4 @@
-n = input("enter 1st number")
+n = "100"
 i = 200
 a = int(n)
 
