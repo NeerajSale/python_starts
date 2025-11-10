@@ -1,0 +1,10 @@
+num1 = input("enter 1st number") 
+num2 = input("enter 2nd number")
+num3 = input("enter 3rd number")
+num4 = input("enter 4th number")
+
+a = float(num1)
+b = float(num2)
+c = float(num3)
+d = int(num4)
+print(a+b+c-d)

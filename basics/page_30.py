@@ -64,5 +64,15 @@ print(3>4 and 3<5)
 print( 5+3*7-9>4+5*6 and 4<5)
 print(4**4)
 print( 6*2-3/4+4-3//2)
+a = 110
+b = 85
+print(a ^ b)
+
+a = 35
+b = 28
+print(a>>3)
+print(b>>2)
+print(26 |52)
+
 
 
