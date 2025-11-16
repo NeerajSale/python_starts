@@ -1,0 +1,6 @@
+print("core\tadvanced")
+print("neeraj@'sale'")
+#print("charan "technology"")
+print("c@hran\"tech\"")
+print("hi\nstudents,this is neeraj,\nfrom charan tech,AMPT.")
+print("hello students this is'neeraj',\nI am a\"python\" faculty in \"charan\"\nmy contact no is:'9052492329'")
